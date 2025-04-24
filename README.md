@@ -71,4 +71,4 @@ Extracted Metadata, Timeline Events, and Hidden Data Detection Results
 ![image](https://github.com/user-attachments/assets/3273ce33-c3bf-4929-9fc4-b2056c1cf075)
 
 ## RESULT:
-Metadata was successfully extracted, timeline analysis was completed, and hidden data was identified using steganography tools.# Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
+Metadata was successfully extracted, timeline analysis was completed, and hidden data was identified using steganography tools.
